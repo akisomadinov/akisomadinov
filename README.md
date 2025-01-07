@@ -11,15 +11,18 @@
 
 ### 🛠 Skills  
 
-- **Backend Development:** .NET, Entity Framework  
-- **Data Management:** PostgreSQL, SQL Server, EPPlus  
-- **Real-time Systems:** SignalR, WebSocket  
-- **API Integration:** REST API, JWT Authentication  
-- **Microservices:** Design, implementation, and integration of distributed systems  
-- **Methodologies:** Agile (Scrum), TDD, CI/CD  
+- **Backend Development:** .NET (Core, 5/6/7), ASP.NET Core, Entity Framework, Dapper  
+- **Data Management:** PostgreSQL, SQL Server, MySQL, MongoDB, EPPlus, Database Migrations (EF Core, Flyway)  
+- **Real-time Systems:** SignalR, WebSocket, gRPC  
+- **API Integration:** REST API, GraphQL, JWT Authentication, OAuth 2.0, API Versioning  
+- **Microservices:** Design, implementation, and integration of distributed systems, Event-Driven Architecture, Message Queues (RabbitMQ, Kafka)  
+- **Architecture and Patterns:** Clean Architecture, Repository Pattern, Dependency Injection, CQRS, SOLID Principles  
+- **Methodologies:** Agile (Scrum/Kanban), TDD, CI/CD (GitHub Actions, Jenkins)  
 - **Automation:** AutoCAD API, data processing (PDF, DWG, XLSX)  
-- **Tools:** Docker, Git, Swagger  
-- **Additional Expertise:** ROS2, STM32, OpenCV  
+- **Performance Optimization:** Query optimization, caching (Redis, MemoryCache), load balancing  
+- **Tools:** Docker, Kubernetes, Git, Swagger, Postman, Visual Studio, Rider  
+- **Cloud Services:** Azure Functions, AWS Lambda, Azure App Service  
+- **Additional Expertise:** ROS2, STM32, OpenCV, Computer Vision, Sensor Data Integration  
 
 ---
 
