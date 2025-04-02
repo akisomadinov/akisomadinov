@@ -3,34 +3,32 @@
 
 ---
 
-I specialize in creating **scalable and reliable backend solutions**, automating workflows, and optimizing systems. Whether it's building APIs, working with microcontrollers, or configuring Linux servers, I strive for clean and efficient solutions.  
+I focus on building **scalable backend systems** and integrating software with hardware. My work includes API development, database management, and server configuration, with a preference for practical and maintainable solutions.  
 
 ---
 
-## 🚀 **My Superpowers**  
+## 🚀 **What I Do**  
 
 🛠 **Technical Skills:**  
-- **C# / .NET**: My main platform for building robust backend systems.  
-- **Python**: Useful for automation and data processing.  
-- **API Development**: Creating secure REST APIs with JWT authentication.  
-- **Microcontrollers**: Working with STM32, firmware development, and sensor integration.  
-- **Linux**: Confident in server setup, task automation, and terminal operations.  
+- **C# / .NET**: Backend development with .NET Core and ASP.NET Core.  
+- **Databases**: PostgreSQL, SQL Server (EF Core, Dapper).  
+- **API**: REST and real-time solutions with SignalR/WebSocket.  
+- **Microcontrollers**: STM32 firmware (UART, Ethernet).  
+- **DevOps**: Docker, CI/CD (GitLab), Linux server administration.  
 
-💡 **What I Excel At:**  
-- Optimizing processes, from query performance to automation.  
-- Implementing real-time communication with **SignalR** and **WebSocket**.  
-- Designing clean and scalable architecture using **SOLID** principles.  
+🔧 **Other Tools:**  
+- React (TypeScript) for frontend tasks.  
+- Git, xUnit, Postman.  
 
 ---
 
 ## 🔧 **Tech Stack**  
 
-- **Languages**: C#, Python, SQL  
+- **Languages**: C#, SQL, TypeScript  
 - **Frameworks**: .NET Core, ASP.NET Core, Entity Framework  
-- **Databases**: PostgreSQL, SQL Server, MySQL  
-- **Tools**: Docker, Git, Swagger, Postman  
-- **OS**: Linux, Windows  
-- **Microcontrollers**: STM32  
+- **Databases**: PostgreSQL, SQL Server  
+- **Tools**: Docker, Git, GitLab CI/CD  
+- **Systems**: Linux, STM32  
 
 ---
 
@@ -44,8 +42,8 @@ I specialize in creating **scalable and reliable backend solutions**, automating
 ## 🌟 **Contact Me**  
 
 📬 **Email**: [isomadinovv@icloud.com](mailto:isomadinovv@icloud.com)  
-💬 **Telegram**: [a_khurshedhonovich08](https://t.me/a_khurshedhonovich08)  
+💬 **Telegram**: [a_isow_010124](https://t.me/a_isow_010124) 
 
 ---
 
-**“The world isn’t perfect, but your code can be.”**  
+**"Code should work first, then improve."**  
