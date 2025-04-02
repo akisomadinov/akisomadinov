@@ -14,10 +14,11 @@ I focus on building **scalable backend systems** and integrating software with h
 - **Databases**: PostgreSQL, SQL Server (EF Core, Dapper).  
 - **API**: REST and real-time solutions with SignalR/WebSocket.  
 - **Microcontrollers**: STM32 firmware (UART, Ethernet).  
-- **DevOps**: Docker, CI/CD (GitLab), Linux server administration.  
+- **DevOps**: Docker, CI/CD (GitLab), Linux server administration.
+- **Frontend**: React (TypeScript) for frontend tasks.  
+   
 
 🔧 **Other Tools:**  
-- React (TypeScript) for frontend tasks.  
 - Git, xUnit, Postman.  
 
 ---
