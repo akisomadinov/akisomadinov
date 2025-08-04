@@ -42,7 +42,7 @@ I focus on building **scalable backend systems** and integrating software with h
 
 ## 🌟 **Contact Me**  
 
-📬 **Email**: [isomadinovv@icloud.com](mailto:isomadinov@mail.ru)  
+📬 **Email**: [isomadinow@gmail.com](mailto:isomadinow@gmail.com)  
 💬 **Telegram**: [a_isov](https://t.me/a_isov) 
 
 ---
