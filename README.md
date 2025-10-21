@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a backend developer focused on **scalable systems**, **clean architecture**, and **integration between software and hardware**. I build **real-world solutions** — from financial APIs to distributed control systems — with attention to performance, reliability, and maintainability.
+I'm a backend developer focused on **scalable systems**, **clean architecture**, and **integration between software and hardware**. I build **real-world solutions** - from financial APIs to distributed control systems - with attention to performance, reliability, and maintainability.
 
 ---
 
@@ -25,7 +25,7 @@ React, TypeScript, STM32, Jetson Nano
 
 ## 💼 Experience
 
-**🏦 Bank Eschata — Backend Developer**
+**🏦 Bank Eschata - Backend Developer**
 Developed financial services and integrations for payment systems and terminals.
 
 * Built backend services with **ASP.NET Core + EF Core**
@@ -33,7 +33,7 @@ Developed financial services and integrations for payment systems and terminals.
 * Integrated **payment providers** and **POS terminals**
 * Automated CI/CD with **GitHub Actions** and **Docker**
 
-**🏗 SGP Engineering — C#/.NET Developer**
+**🏗 SGP Engineering - C#/.NET Developer**
 Created a distributed system for **engineering design automation**.
 
 * Developed **microservices** with .NET Core and REST APIs
@@ -41,7 +41,7 @@ Created a distributed system for **engineering design automation**.
 * Managed **real-time communication** via SignalR
 * Deployed and maintained services on **Linux + Docker**
 
-**🚜 Digital Technology Center — .NET Developer**
+**🚜 Digital Technology Center - .NET Developer**
 Built control and telemetry systems for **autonomous mining vehicles**.
 
 * Designed **WebSocket APIs** and **real-time dashboards**
@@ -53,7 +53,7 @@ Built control and telemetry systems for **autonomous mining vehicles**.
 
 ## 🎓 Education
 
-🎓 **B.Sc. in Information Systems and Technologies** — Kuzbass State Technical University (2024)
+🎓 **B.Sc. in Information Systems and Technologies** - Kuzbass State Technical University (2024)
 
 ---
 
@@ -65,4 +65,4 @@ Built control and telemetry systems for **autonomous mining vehicles**.
 
 ---
 
-> 💡 *“I don’t just write code — I build systems that work.”*
+> 💡 *“I don’t just write code - I build systems that work.”*
